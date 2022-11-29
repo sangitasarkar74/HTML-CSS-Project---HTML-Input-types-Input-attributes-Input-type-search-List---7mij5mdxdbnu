@@ -1,8 +1,7 @@
 body {
     width: 100vw;
     height: 100vh;
-    background-color: rgb(182, 85, 238);
-
+    background-color: rgb(197, 114, 245);
     justify-content: center;
     align-items: center;
 }
@@ -28,6 +27,15 @@ body {
     margin-top: 10px;
 }
 
-h6 {
-    color: black;
+p {
+    margin: 0px;
+    font-size: 10px;
+}
+
+.icons div {
+    text-align: center;
+}
+
+#home {
+    color: rgb(140, 66, 209);
 }
